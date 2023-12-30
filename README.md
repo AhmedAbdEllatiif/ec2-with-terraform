@@ -7,7 +7,7 @@ Before you proceed, make sure you have the following tools installed:
 
 - [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli): The Terraform command-line tool.
 - [Configure AWS](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html): The AWS command-line tool.
-_ [Get your current public ip](https://www.whatismyip.com/).
+_ [Get your current public IP]:(https://www.whatismyip.com/).
 
 ## Getting Started
 
